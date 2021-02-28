@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# environement variables files
+
+covid-deaths-d74588b777fb.json
